@@ -1,4 +1,4 @@
-## CGPA Calculator - Console Based Project
+ CGPA Calculator - Console Based Project
 
  Overview
 The CGPA Calculator is a console-based application developed in C++ to help students calculate their CGPA. It collects user inputs for grades and credit hours per subject, computes the GPA for each semester, and calculates the overall CGPA.
